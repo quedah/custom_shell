@@ -2,7 +2,7 @@
 filetype off
 
 
-source ~/.vimrc_local
+"source ~/.vimrc_local
 
 
 au BufNewFile,BufRead *.cu set ft=cu
